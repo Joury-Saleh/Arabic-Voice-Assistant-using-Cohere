@@ -59,9 +59,9 @@ Assistant: السلام عليكم، أنا مساعدك الذكي، قل لي 
 ```
 
 
-![screenshot](Cohere-Arabic-VoiceBot/Arabic-Asistant.png)
+![screenshot](Cohere-Arabic-VoiceBot/ArabicAssistant.png)
 
 ## Notes
 - Make sure your microphone is connected and working
 - Uses pygame instead of playsound for better compatibility.
-- 
+  
