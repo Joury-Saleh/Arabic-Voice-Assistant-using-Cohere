@@ -59,7 +59,7 @@ Assistant: السلام عليكم، أنا مساعدك الذكي، قل لي 
 ```
 
 
-![screenshot](Cohere-Arabic-VoiceBot/ArabicAsistant.png)
+![screenshot](Cohere-Arabic-VoiceBot/Arabic-Asistant.png)
 
 ## Notes
 - Make sure your microphone is connected and working
