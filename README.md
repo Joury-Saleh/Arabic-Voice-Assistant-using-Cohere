@@ -38,12 +38,12 @@ co = cohere.Client('YOUR_COHERE_API_KEY')
 
 ## How It Works
 
-- 1- The assistant greets you in Arabic
-- 2- Listens to your voice
-- 3- Converts your speech to text
-- 4- Sends it to Cohere for a smart reply
-- 5- Speaks the reply using```gTTS```
-- 6- Repeats the loop until you say: "توقف", "خلاص", or "إنهاء"
+- The assistant greets you in Arabic
+- Listens to your voice
+- Converts your speech to text
+- Sends it to Cohere for a smart reply
+- Speaks the reply using```gTTS```
+- Repeats the loop until you say: "توقف", "خلاص", or "إنهاء"
 
 ## Sample Result
 
