@@ -47,7 +47,7 @@ co = cohere.Client('YOUR_COHERE_API_KEY')
 
 ## Sample Result
 
-###Example Interaction
+### Example Interaction
 
 ```
 Assistant: السلام عليكم، أنا مساعدك الذكي، قل لي كيف أساعدك، وعندما تنتهي قل: توقف.
@@ -59,7 +59,7 @@ Assistant: السلام عليكم، أنا مساعدك الذكي، قل لي 
 ```
 
 
-![screenshot](screenshot.png)
+![screenshot](Cohere-Arabic-VoiceBot/ArabicAsistant.png)
 
 ## Notes
 - Make sure your microphone is connected and working
