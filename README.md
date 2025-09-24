@@ -21,7 +21,7 @@ This project is a smart **Arabic voice assistant** built with:
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 ```bash
 pip install cohere gTTS pygame SpeechRecognition
